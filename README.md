@@ -13,4 +13,4 @@ Existing CMS-tailored Security Validation (InSpec Profile) content will still be
 - [Heimdall Lite](https://heimdall-lite.mitre.org/) and [Server Security Data visualizer](https://github.com/mitre/heimdall2)
 - CMS-format CAAT spreadsheet export via Heimdall and SAF-CLI.
 
-For more information, please visit [CMS SAF Program](https://security.cms.gov/learn/security-automation-framework-saf)
+**For more information, please visit [CMS SAF Program](https://security.cms.gov/learn/security-automation-framework-saf)**
